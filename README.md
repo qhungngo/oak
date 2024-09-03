@@ -12,4 +12,4 @@ In recent years, data science has evolved significantly. Data analysis and minin
 
 - [OAK4XAI: Model towards Out-Of-Box eXplainable Artificial Intelligence for Digital Agriculture](https://link.springer.com/chapter/10.1007/978-3-031-21441-7_17)
 
-- [Ontology-based Case Study Management Towards Bridging Training and Actual Investigation Gaps in Digital Forensics](https://www.sciencedirect.com/science/article/pii/S2666281723001336))
+- [Ontology-based Case Study Management Towards Bridging Training and Actual Investigation Gaps in Digital Forensics](https://www.sciencedirect.com/science/article/pii/S2666281723001336)
